@@ -1,0 +1,78 @@
+GPU,1080p Ultra,1440p Ultra,4k Ultra
+GeForce RTX 4090,100.0% (151.6fps),100.0% (143.1fps),100.0% (114.1fps)
+Radeon RX 7900 XTX,97.3% (147.5fps),93.4% (133.7fps),81.6% (93.0fps)
+GeForce RTX 4080,94.0% (142.6fps),90.1% (129.0fps),77.8% (88.7fps)
+Radeon RX 7900 XT,93.1% (141.2fps),86.9% (124.3fps),69.8% (79.6fps)
+Radeon RX 6950 XT,89.6% (135.8fps),79.5% (113.7fps),59.3% (67.6fps)
+GeForce RTX 4070 Ti,89.3% (135.4fps),80.5% (115.1fps),62.9% (71.8fps)
+GeForce RTX 3090 Ti,87.5% (132.6fps),80.1% (114.7fps),67.0% (76.4fps)
+Radeon RX 6900 XT,87.0% (132.0fps),75.9% (108.6fps),55.6% (63.5fps)
+GeForce RTX 3090,84.1% (127.6fps),75.4% (107.9fps),62.3% (71.0fps)
+Radeon RX 6800 XT,84.0% (127.3fps),72.0% (103.0fps),52.1% (59.4fps)
+GeForce RTX 3080 Ti,83.1% (126.0fps),74.0% (105.8fps),60.6% (69.1fps)
+GeForce RTX 3080 12GB,81.9% (124.2fps),72.7% (104.0fps),58.7% (67.0fps)
+GeForce RTX 4070,81.5% (123.6fps),69.1% (98.9fps),50.2% (57.2fps)
+GeForce RTX 3080,78.5% (119.0fps),68.5% (98.1fps),54.7% (62.4fps)
+Radeon RX 6800,76.7% (116.3fps),63.1% (90.2fps),44.6% (50.9fps)
+GeForce RTX 3070 Ti,69.8% (105.8fps),59.0% (84.4fps),41.8% (47.7fps)
+Radeon RX 6750 XT,68.7% (104.2fps),54.3% (77.7fps),37.5% (42.8fps)
+GeForce RTX 4060 Ti,67.1% (101.7fps),52.8% (75.5fps),35.2% (40.1fps)
+GeForce RTX 3070,66.3% (100.5fps),55.2% (79.0fps),38.9% (44.4fps)
+Radeon RX 6700 XT,66.1% (100.3fps),51.4% (73.5fps),35.3% (40.3fps)
+Titan RTX,65.5% (99.3fps),55.6% (79.5fps),41.9% (47.8fps)
+GeForce RTX 2080 Ti,64.7% (98.1fps),53.8% (77.0fps),39.4% (44.9fps)
+GeForce RTX 3060 Ti,60.9% (92.3fps),49.6% (71.0fps), 
+GeForce RTX 2080 Super,57.3% (86.8fps),46.0% (65.8fps),32.2% (36.7fps)
+Radeon RX 6700 10GB,56.9% (86.2fps),43.7% (62.6fps),28.9% (32.9fps)
+GeForce RTX 4060,56.0% (84.9fps),42.8% (61.2fps),27.9% (31.9fps)
+GeForce RTX 2080,55.1% (83.6fps),43.9% (62.8fps), 
+Radeon RX 7600,54.3% (82.3fps),40.0% (57.3fps),25.5% (29.1fps)
+Radeon RX 6650 XT,52.7% (80.0fps),39.5% (56.5fps), 
+GeForce RTX 2070 Super,51.6% (78.3fps),40.6% (58.1fps), 
+Radeon RX 6600 XT,51.5% (78.1fps),38.6% (55.2fps), 
+Intel Arc A770 16GB,50.6% (76.8fps),41.7% (59.6fps),30.7% (35.0fps)
+Radeon RX 5700 XT,48.3% (73.3fps),37.1% (53.1fps),25.6% (29.3fps)
+Intel Arc A770 8GB,48.3% (73.2fps),39.5% (56.5fps),28.8% (32.9fps)
+GeForce RTX 3060,48.1% (73.0fps),37.7% (54.0fps), 
+GeForce RTX 2070,46.4% (70.3fps),36.1% (51.6fps), 
+Radeon VII,45.9% (69.5fps),37.0% (53.0fps),27.6% (31.5fps)
+Intel Arc A750,44.8% (68.0fps),36.5% (52.2fps),26.5% (30.2fps)
+Radeon RX 6600,44.4% (67.3fps),32.6% (46.6fps), 
+GeForce GTX 1080 Ti,43.8% (66.4fps),35.1% (50.2fps),25.9% (29.5fps)
+GeForce RTX 2060 Super,43.6% (66.2fps),33.6% (48.1fps), 
+Radeon RX 5700,42.6% (64.5fps),32.6% (46.7fps), 
+Radeon RX 5600 XT,38.1% (57.8fps),29.4% (42.0fps), 
+Radeon RX Vega 64,37.4% (56.7fps),29.1% (41.6fps),20.6% (23.5fps)
+GeForce RTX 2060,36.9% (55.9fps),27.9% (39.9fps), 
+GeForce GTX 1080,35.0% (53.0fps),27.6% (39.4fps), 
+GeForce RTX 3050,34.2% (51.9fps),26.9% (38.5fps), 
+GeForce GTX 1070 Ti,33.7% (51.1fps),26.5% (37.9fps), 
+Radeon RX Vega 56,33.4% (50.6fps),25.8% (37.0fps), 
+GeForce GTX 1660 Super,29.8% (45.3fps),22.7% (32.5fps), 
+GeForce GTX 1660 Ti,29.7% (45.0fps),22.6% (32.3fps), 
+GeForce GTX 1070,29.5% (44.7fps),23.1% (33.1fps), 
+GeForce GTX 1660,26.6% (40.3fps),20.1% (28.7fps), 
+Radeon RX 5500 XT 8GB,26.2% (39.7fps),19.7% (28.2fps), 
+Radeon RX 590,25.9% (39.3fps),20.3% (29.0fps), 
+GeForce GTX 980 Ti,23.7% (35.9fps),18.6% (26.6fps), 
+Radeon RX 580 8GB,23.3% (35.3fps),18.2% (26.0fps), 
+Radeon R9 Fury X,23.2% (35.2fps), , 
+GeForce GTX 1650 Super,22.3% (33.9fps), , 
+Radeon RX 5500 XT 4GB,22.0% (33.3fps), , 
+GeForce GTX 1060 6GB,21.1% (32.1fps),16.1% (23.0fps), 
+Radeon RX 6500 XT,20.2% (30.6fps),12.6% (18.0fps), 
+Radeon R9 390,19.6% (29.8fps), , 
+GeForce GTX 980,19.1% (28.9fps), , 
+GeForce GTX 1650 GDDR6,19.0% (28.8fps), , 
+Intel Arc A380,18.7% (28.4fps),13.6% (19.5fps), 
+Radeon RX 570 4GB,18.5% (28.1fps),13.9% (19.9fps), 
+GeForce GTX 1650,17.8% (27.0fps), , 
+GeForce GTX 970,17.5% (26.5fps), , 
+Radeon RX 6400,15.9% (24.1fps), , 
+GeForce GTX 1050 Ti,13.1% (19.8fps), , 
+GeForce GTX 1060 3GB, , , 
+GeForce GTX 1630,11.1% (16.9fps), , 
+Radeon RX 560 4GB,9.7% (14.7fps), , 
+GeForce GTX 1050, , , 
+Radeon RX 550 4GB, , , 
+GeForce GT 1030, , , 
